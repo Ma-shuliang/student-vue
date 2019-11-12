@@ -2,7 +2,7 @@
   <div id="app">
     <h1>学生管理系统</h1>
     <router-view/>
-    <img src="./assets/logo.png">
+    <img src="./assets/logo.jpg">
   </div>
 </template>
 
